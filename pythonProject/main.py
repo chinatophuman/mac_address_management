@@ -7,7 +7,7 @@
 # result1 = cur.fetchall()
 # id1=result1[0][0]
 # print(id1)
-#
+# test
 # conn.close()
 
 print("今天下雨了")
